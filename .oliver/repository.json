@@ -2,8 +2,21 @@
   "version": "1.0",
   "projectId": "a9dcee08-fb26-47fb-ab3a-123bed85574e",
   "createdAt": "2026-02-17T09:05:30.532Z",
-  "updatedAt": "2026-02-17T09:05:30.532Z",
-  "files": [],
+  "updatedAt": "2026-02-17T09:13:25.331Z",
+  "files": [
+    {
+      "id": "e7bc45ae-0f25-47c2-af8f-2dbe082708b5",
+      "name": "Marketing Week 3.jpg",
+      "path": "repository/business-case/Marketing Week 3.jpg",
+      "folder": "business-case",
+      "mimeType": "image/jpeg",
+      "size": 2497623,
+      "sha": "45faff1a32ea75793fcc0c4d5a170ae0ed4550ed",
+      "createdAt": "2026-02-17T09:13:25.065Z",
+      "updatedAt": "2026-02-17T09:13:25.065Z",
+      "tags": []
+    }
+  ],
   "externalLinks": [],
-  "storageUsed": 0
+  "storageUsed": 2497623
 }
